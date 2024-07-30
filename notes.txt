@@ -1,0 +1,5 @@
+- Ei Java Swingillä 💀
+- React? joo
+- Java spring boot, tai Node backend? node käy  
+- Docker? en oo enne käyttäny nii vois olla hyvä, pystyyks sillä hostaa
+- Mulla on siirtoauto.fi domain jos halutaan tehdä se : käy. joku henkilöautojen siirtopalvelu?  
